@@ -1,0 +1,22 @@
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+
+# Build output from all modules
+build/
+out/
+.cxx/
+.externalNativeBuild/
+captures/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Local Android SDK configuration
+/local.properties
+
+# Android Studio local workspace files
+.idea/
+*.iml
